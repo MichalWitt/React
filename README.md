@@ -1,1 +1,1 @@
-Evaluation work on study, app wrote in React.
+Evaluation work for study, app wrote in React.
